@@ -15,7 +15,7 @@ Software | Sucesso Compartilhado | Cubos Academy.
 ### - Média Aritimética
 #### [Descrição](https://www.hackerrank.com/contests/desafio-de-logica-modulo-1-turma-dds-04/challenges/media-aritimetica) | [Resolução ](https://github.com/moabebatista/Desafio_Back_End_Modulo_1/blob/master/Questoes/02_media_aritimetica.js)
 
-### - Numeros dentro de um intervalo
+### - Números dentro de um intervalo
 #### [Descrição](https://www.hackerrank.com/contests/desafio-de-logica-modulo-1-turma-dds-04/challenges/numeros-dentro-de-um-intervalo) | [Resolução ](https://github.com/moabebatista/Desafio_Back_End_Modulo_1/blob/master/Questoes/03_numeros_dentro_de_um_intervalo.js)
 
 ### - Mesa de Poker
@@ -42,7 +42,7 @@ Software | Sucesso Compartilhado | Cubos Academy.
 ### - Taxímetro
 #### [Descrição](https://www.hackerrank.com/contests/desafio-de-logica-modulo-1-turma-dds-04/challenges/taximetro) | [Resolução ](https://github.com/moabebatista/Desafio_Back_End_Modulo_1/blob/master/Questoes/11_taximetro.js)
 
-### - cAPS lOOK On
+### - cAPS lOOK oN
 #### [Descrição](https://www.hackerrank.com/contests/desafio-de-logica-modulo-1-turma-dds-04/challenges/caps-lock-on) | [Resolução ](https://github.com/moabebatista/Desafio_Back_End_Modulo_1/blob/master/Questoes/12_caps_look_on.js)
 
 ### - Distância Máxima
